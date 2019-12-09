@@ -17,3 +17,9 @@
     padding: 0 0 0 0;
     border-bottom: 3px #3333B3 solid;
 }
+
+.stack .rendered_html img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
