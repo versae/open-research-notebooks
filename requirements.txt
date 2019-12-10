@@ -2,3 +2,6 @@ jupyter
 rise
 requests
 pandas
+watermark
+voila
+matplotlib
