@@ -5,4 +5,5 @@ pandas
 watermark
 voila
 matplotlib
-nbconvert<6
+nbconvert
+nltk
